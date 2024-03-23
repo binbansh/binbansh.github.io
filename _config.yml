@@ -50,7 +50,7 @@ comments:
 # docs: http://dplayer.js.org/#/zh-Hans/
 dplayer:
   enable: true
-  theme: "#b7daff"
+  flexblock: "#b7daff"
   autoplay: false
   loop: false
   mutex: true
@@ -59,7 +59,7 @@ dplayer:
 # docs: https://aplayer.js.org/#/zh-Hans/
 aplayer:
   enable: true
-  theme: "#b7daff"
+  flexblock: "#b7daff"
   autoplay: false
   loop: false
   mutex: true
